@@ -1,0 +1,19 @@
+.individual-tag-item {
+  display: flex;
+  list-style-type: none;
+}
+
+.normal-filter {
+  height: 35px;
+  border-radius: 15px;
+  border: 1px solid #f3aa4e;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  background: transparent;
+}
+
+.active-filter {
+  background-color: #f3aa4e;
+  border: 0px;
+}
